@@ -45,7 +45,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto].(liveassist-web (1)/readme.md) |
+| LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](1README.md) |
  
 ---
  

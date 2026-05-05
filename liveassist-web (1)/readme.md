@@ -57,23 +57,36 @@ O **LiveAssist** resolve isso com interfaces adaptáveis e funcionalidades direc
 
 com.liveassist
 │
+
 ├── ui/
+
 │ ├── main/
+
 │ ├── cooking/
+
 │ ├── fitness/
+
 │ └── accessibility/
 │
 ├── viewmodel/
+
 │ ├── MainViewModel
+
 │ ├── CookingViewModel
+
 │ ├── FitnessViewModel
+
 │
 ├── data/
+
 │ └── models/
+
 │
 ├── jitsi/
+
 │
 └── utils/
+
 
 ## ⚙️ Instalação e Execução
 

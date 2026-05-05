@@ -55,6 +55,7 @@ O **LiveAssist** resolve isso com interfaces adaptáveis e funcionalidades direc
 
 ## 📂 Estrutura do Projeto
 
+com.liveassist
 │
 ├── ui/
 │ ├── main/

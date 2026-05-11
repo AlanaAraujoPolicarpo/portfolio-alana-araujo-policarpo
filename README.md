@@ -42,7 +42,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](1README.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
-#### 🤖 Inteligência Artificial
+
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](https://github.com/AlanaAraujoPolicarpo/portfolio-alana-araujo-policarpo/blob/main/liveassist-web%20(1)/readme.md) |

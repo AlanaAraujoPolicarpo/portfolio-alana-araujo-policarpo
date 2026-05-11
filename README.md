@@ -41,7 +41,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](1README.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
+| Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](batalhamodelo.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |

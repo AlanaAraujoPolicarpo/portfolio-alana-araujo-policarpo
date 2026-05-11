@@ -37,7 +37,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Desenvolvimento e Utilização de um Dicionário de Dados | Apresentação destinada ao desenvolvimento e utilização de um Dicionário de Dados | [Ver Projeto](2README.md) |
+| Desenvolvimento e Utilização de um Dicionário de Dados | Apresentação destinada ao desenvolvimento e utilização de um Dicionário de Dados | [Ver Projeto](sitemaestoque.md) |
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |

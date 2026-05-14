@@ -37,7 +37,6 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 #### 🗃️ Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Desenvolvimento e Utilização de um Dicionário de Dados | Apresentação destinada ao desenvolvimento e utilização de um Dicionário de Dados | [Ver Projeto](sitemaestoque.md) |
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -46,6 +45,10 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](https://github.com/AlanaAraujoPolicarpo/portfolio-alana-araujo-policarpo/blob/main/liveassist-web%20(1)/readme.md) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| :--- | :--- | :---: |
  
 ---
  

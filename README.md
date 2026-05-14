@@ -49,6 +49,10 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | A Corrida do Prompt | Projeto voltado para a prática de Engenharia de Prompt, utilizando Inteligência Artificial para comparar respostas geradas a partir de prompts refinados. A atividade explorou geração de imagens e escrita criativa, analisando como diferentes níveis de detalhamento influenciam na qualidade, precisão e criatividade das respostas produzidas pela IA. | [Ver Projeto](5.Readme/5Readme.md) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual) |
  
 ---
  

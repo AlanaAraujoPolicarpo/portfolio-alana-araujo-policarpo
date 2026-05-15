@@ -12,13 +12,12 @@ Investigação de estratégias de prompting para melhorar os resultados gerados 
 ## 🎯 Objetivo
 
 Testar diferentes níveis de detalhamento em prompts para geração de imagem, observando como restrições específicas modificam o resultado visual produzido pela IA.
-
 ---
 
 ## ✨ Prompt 1
 
 Atue como um designer e crie uma imagem png de um astronauta estilo barroco tocando violoncelo em Marte.
-
+![oiee](a-corrida-do-prompt/SAVE_20260515_120101.jpg)
 ---
 
 ## ✨ Prompt 2

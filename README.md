@@ -52,7 +52,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM4 - Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual) |
+| SM4 - Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual/6README.md) |
  
 ---
  

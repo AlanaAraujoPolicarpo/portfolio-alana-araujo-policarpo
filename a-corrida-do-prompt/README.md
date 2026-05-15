@@ -22,20 +22,17 @@ Atue como um designer e crie uma imagem png de um astronauta estilo barroco toca
 ## ✨ Prompt 2
 
 Você é um artista estilo barroco. Portanto, gere uma imagem em alta qualidade em png de um astronauta estilo barroco tocando violoncelo em Marte, apenas o astronauta deve estar no estilo barroco, o violoncelo deve ser clássico.
-
 ---
 
 ## ✨ Prompt 3
 
 Mantenha as duas luas da primeira imagem e retire esses detalhes dourados do violoncelo.
-
 ---
 
 ## 🖼️ Resultado Final
 
 
 Astronauta barroco tocando violoncelo em Marte, com composição mais refinada, preservando as duas luas do cenário original e removendo os detalhes dourados do instrumento para deixá-lo mais clássico e realista.
-
 ---
 
 ## 📝 Análise dos Prompts

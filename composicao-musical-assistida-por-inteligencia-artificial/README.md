@@ -1,82 +1,83 @@
 # SM8 - Composição Musical Assistida por Inteligência  Artificial
 
-## 🧠 Descrição
-O **LiveAssist** é um aplicativo de videoconferência inteligente que vai além das chamadas tradicionais, oferecendo modos adaptáveis para diferentes situações do dia a dia como culinária, treino físico e acessibilidade para idosos.
+# 🎵 Projeto Música & IA: Composição Generativa com Gemini e Suno
 
-O objetivo é proporcionar uma experiência simples, funcional e inclusiva, com foco em usabilidade e praticidade.
-
----
-
-## 🚀 Problema Resolvido
-Aplicativos de videochamada tradicionais não atendem bem contextos específicos como:
-- Cozinhar com as mãos ocupadas
-- Treinar enquanto acompanha alguém
-- Facilitar o uso para idosos
-
-O **LiveAssist** resolve isso com interfaces adaptáveis e funcionalidades direcionadas.
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
 ---
 
-## ✨ Funcionalidades
+# 📝 Descrição do Projeto
 
-### 📹 Videoconferência
-- Criação e entrada em salas via nome ou link
-- Integração com Jitsi Meet SDK
+Este projeto explora a utilização de Inteligência Artificial Generativa para criação de músicas inéditas, utilizando engenharia de prompt para geração de letras e ferramentas de IA para produção musical completa.
 
-### 🍳 Modo Culinária
-- Navegação por passos de receita
-- Interface limpa e hands-free
-- Botões simples para avançar e repetir
-
-### 🏋️ Modo Fitness
-- Cronômetro integrado
-- Contador de repetições
-- Controle de séries e pausas
-
-### 👴 Modo Acessibilidade
-- Botões grandes
-- Alto contraste
-- Entrada facilitada em chamadas
-- Feedback visual claro
+As letras foram criadas com auxílio do Gemini Gems e os áudios produzidos no Suno AI, buscando manter características inspiradas em artistas específicos, porém com temas originais.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
-- Kotlin
-- Android Studio
-- MVVM (Model-View-ViewModel)
-- StateFlow / LiveData
-- Jitsi Meet SDK
-- Material Design 3
-- Jetpack Compose (opcional)
+- Gemini Gems
+- Suno AI
+- GitHub
+- Engenharia de Prompt
+- Inteligência Artificial Generativa
 
 ---
 
-## 📂 Estrutura do Projeto
+# 🚀 Assistente Personalizado
 
-com.liveassist
-│
-├── ui/
-│   ├── main/
-│   ├── cooking/
-│   ├── fitness/
-│   └── accessibility/
-│
-├── viewmodel/
-│   ├── MainViewModel
-│   ├── CookingViewModel
-│   ├── FitnessViewModel
-│
-├── data/
-│   └── models/
-│
-├── jitsi/
-│
-└── utils/
+O assistente personalizado foi configurado no Gemini Gems para analisar estilo musical, estrutura lírica, vocabulário e temática do artista utilizado como referência.
 
-## ⚙️ Instalação e Execução
+---
 
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/liveassist.git
+# 🎧 Músicas Geradas
+
+| Faixa | Título | Estilo/Referência | Áudio |
+|---|---|---|---|
+| 01 | [Título Música 1] | [Estilo] | [musica1.mp3](./audio/musica1.mp3) |
+| 02 | [Título Música 2] | [Estilo] | [musica2.mp3](./audio/musica2.mp3) |
+| 03 | [Título Música 3] | [Estilo] | [musica3.mp3](./audio/musica3.mp3) |
+| 04 | [Título Música 4] | [Estilo] | [musica4.mp3](./audio/musica4.mp3) |
+| 05 | [Título Música 5] | [Estilo] | [musica5.mp3](./audio/musica5.mp3) |
+
+---
+
+# 📄 Processo de Criação
+
+## 🔹 Curadoria
+Foram selecionadas letras de referência para alimentar o Gemini Gems e permitir uma melhor compreensão do estilo musical escolhido.
+
+## 🔹 Engenharia de Prompt
+Os prompts foram refinados para gerar letras inéditas mantendo características semelhantes às referências utilizadas.
+
+## 🔹 Produção Musical
+As letras foram convertidas em músicas completas utilizando o Suno AI, ajustando estilo musical, instrumentalização e atmosfera sonora.
+
+---
+
+# 📁 Estrutura do Projeto
+
+```txt
+projeto-musica-ia/
+│
+├── README.md
+├── letras/
+│   ├── musica1.txt
+│   ├── musica2.txt
+│   ├── musica3.txt
+│   ├── musica4.txt
+│   └── musica5.txt
+│
+├── audio/
+│   ├── musica1.mp3
+│   ├── musica2.mp3
+│   ├── musica3.mp3
+│   ├── musica4.mp3
+│   └── musica5.mp3
+```
+
+---
+
+# 📚 Matéria
+
+Engenharia de Prompt e Aplicações em Inteligência Artificial.

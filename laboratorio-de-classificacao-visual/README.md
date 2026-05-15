@@ -1,71 +1,87 @@
 # SM2 - Laboratório de Classificação Visual
 
-> Projeto desenvolvido utilizando Inteligência Artificial para identificação de carros e motos através de reconhecimento de imagens.
+## 📖 Descrição
+
+Nesta atividade foi desenvolvido um sistema de reconhecimento utilizando Inteligência Artificial com o objetivo de identificar carros e motos através de imagens.
+
+O projeto foi criado utilizando ferramentas de treinamento de IA, permitindo analisar como modelos de reconhecimento visual interpretam objetos e classificam imagens com base em padrões aprendidos durante o treinamento.
 
 ---
 
-## 📌 Objetivo do Projeto
-Este projeto teve como objetivo treinar uma Inteligência Artificial capaz de identificar veículos, especificamente carros e motos, utilizando reconhecimento visual por imagens.
+# 🎯 Objetivo
 
-A atividade buscou analisar:
-- O desempenho da IA durante a classificação;
-- A precisão do treinamento;
-- As limitações do modelo;
-- O impacto do aprendizado de máquina com poucos dados.
+Desenvolver um sistema capaz de diferenciar carros e motos por meio de reconhecimento visual utilizando Inteligência Artificial.
 
 ---
 
-## 🧠 Funcionamento do Sistema
-O sistema foi treinado para reconhecer:
-- 🚗 Carros;
-- 🏍️ Motos.
+# 🛠️ Desenvolvimento da Atividade
 
-Durante os testes, a IA conseguiu identificar veículos tanto de frente quanto de trás, apresentando resultados satisfatórios na maior parte das análises.
+O sistema foi treinado utilizando imagens de:
 
----
+- Carros
+- Motos
 
-## ⚠️ Limitações Encontradas
-Apesar dos bons resultados, o sistema apresentou algumas limitações, como:
-- Identificar humanos como carros;
-- Classificar alguns objetos incorretamente como motos;
-- Dependência da quantidade e qualidade das imagens utilizadas no treinamento.
+As imagens utilizadas apresentavam diferentes ângulos e posições dos veículos para melhorar o reconhecimento do modelo.
 
-Esses resultados demonstram como modelos de IA ainda podem apresentar falhas quando possuem poucas informações para aprendizado.
+Durante os testes, o sistema apresentou resultados satisfatórios ao identificar:
 
----
-
-## 📊 Resultados Obtidos
-### ✅ Pontos Positivos
-- Boa identificação de veículos;
-- Reconhecimento funcional em diferentes ângulos;
-- Facilidade de treinamento do modelo.
-
-### ❌ Pontos Negativos
-- Alguns erros de classificação;
-- Baixa precisão em determinados objetos;
-- Necessidade de mais dados para melhorar a IA.
+- Carros de frente
+- Carros de trás
+- Motos de frente
+- Motos de trás
 
 ---
 
-## 🧩 Conclusão
-A atividade demonstrou como a Inteligência Artificial pode aprender padrões visuais mesmo com uma quantidade limitada de informações. O projeto também evidenciou a importância do treinamento contínuo e da qualidade dos dados para melhorar a precisão dos modelos de reconhecimento de imagem.
+# ⚠️ Limitações Encontradas
+
+Apesar dos bons resultados, o sistema apresentou algumas limitações durante os testes.
+
+Em determinadas situações, a IA acabou:
+
+- Identificando humanos como carros
+- Interpretando objetos aleatórios como motos
+
+Esses erros acontecem devido à limitação de dados utilizados no treinamento e à semelhança visual entre alguns formatos e padrões.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 🧠 Reflexão Sobre a IA
+
+A atividade demonstrou como a Inteligência Artificial está evoluindo rapidamente e como modelos treinados conseguem executar tarefas complexas mesmo com quantidade limitada de informações.
+
+Porém, também foi possível observar que a IA ainda apresenta falhas relacionadas à interpretação visual e necessidade de treinamento mais refinado.
+
+---
+
+# 🔗 Modelo Desenvolvido
+
+txt
+https://teachablemachine.withgoogle.com/models/7X7HaXcKVS/
+
+
+---
+
+# 🧩 Tecnologias Utilizadas
+
+- Teachable Machine
 - Inteligência Artificial
 - Machine Learning
 - Reconhecimento de Imagem
-- Teachable Machine
-- GitHub
 
 ---
 
-## 🌐 Link do Projeto
-https://teachablemachine.withgoogle.com/models/7X7HaXcKVS/
+# 📚 Aprendizados
+
+Durante a atividade foi possível compreender:
+
+- Funcionamento básico de modelos de classificação visual
+- Processo de treinamento de IA
+- Importância da qualidade dos dados
+- Limitações de modelos treinados com poucas informações
+- Reconhecimento de padrões em imagens
 
 ---
 
-## 👩‍💻 Autora
-**Alana Araujo Policarpo**  
-Estudante de Ciência da Computação — UNICID
+# 📚 Matéria
+
+Engenharia de Prompt e Aplicações em Inteligência Artificial.

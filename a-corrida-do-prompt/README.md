@@ -35,6 +35,7 @@ Mantenha as duas luas da primeira imagem e retire esses detalhes dourados do vio
 
 ## 🖼️ Resultado Final
 
+
 Astronauta barroco tocando violoncelo em Marte, com composição mais refinada, preservando as duas luas do cenário original e removendo os detalhes dourados do instrumento para deixá-lo mais clássico e realista.
 
 ---

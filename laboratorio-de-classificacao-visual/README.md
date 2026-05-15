@@ -1,4 +1,4 @@
-# 🚗🤖 Reconhecimento de Veículos com Inteligência Artificial
+# SM2 - Laboratório de Classificação Visual
 
 > Projeto desenvolvido utilizando Inteligência Artificial para identificação de carros e motos através de reconhecimento de imagens.
 

@@ -1,4 +1,4 @@
-# SM1 - A Corrida do Prompet
+# SM1 - A Corrida do Prompt
 
 
 ## 📖 Descrição

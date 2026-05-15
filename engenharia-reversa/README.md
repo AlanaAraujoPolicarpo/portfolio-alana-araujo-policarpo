@@ -2,101 +2,177 @@
 
 ## 📖 Descrição
 
-Nesta atividade foi realizado um processo de engenharia reversa utilizando Inteligência Artificial para reconstrução de um sistema web a partir apenas da análise visual e funcional da interface, sem acesso ao código-fonte original.
+Nesta atividade foi desenvolvido um sistema utilizando engenharia reversa assistida por Inteligência Artificial, com o objetivo de transformar uma aplicação de referência em um produto autoral, funcional e diferenciado.
 
-O objetivo foi compreender como a IA pode auxiliar no desenvolvimento Full-Stack, reprodução de interfaces modernas e refinamento de lógica de sistemas.
-
----
-
-# 🎯 Objetivos da Atividade
-
-## 🔹 Identificação de Problemas
-
-A atividade permitiu desenvolver a capacidade do profissional em identificar erros de código de maneira rápida e lógica, principalmente relacionados à:
-
-- Segurança
-- Performance
-- Estrutura do sistema
-- Organização do código
-- Funcionamento da interface
+O projeto foi recriado sem acesso ao código-fonte original, utilizando apenas análise visual, lógica funcional e refinamento de prompts no Google AI Studio.
 
 ---
 
-## 🔹 Engenharia de Prompt
+# 🔗 Links do Projeto
 
-Foi trabalhada a habilidade de comandar e especificar prompts de maneira dinâmica e organizada para a IA, garantindo respostas mais precisas durante o desenvolvimento da aplicação.
+## 💻 GitHub
+txt
+https://github.com/AlanaAraujoPolicarpo/O-que-voce-prefere.git
 
----
 
-## 🔹 Ética e Autenticidade
+## 🤖 IA Studio
+txt
+https://aistudio.google.com/apps/4b51f63f-6ad8-43c5-886c-a8ffd1cee782?showPreview=true&showAssistant=true
 
-Todo projeto desenvolvido a partir de engenharia reversa deve apresentar no mínimo 40% de autenticidade por parte do desenvolvedor, além da obrigatoriedade de citar os créditos da aplicação utilizada como referência.
-
----
-
-# 🛠️ Processo de Desenvolvimento
-
-## 🔎 Análise da Aplicação
-
-Foi realizada uma análise completa do webapp de referência observando:
-
-- Interface visual
-- Navegação
-- Componentes
-- Responsividade
-- Fluxo do usuário
-- Regras de negócio
 
 ---
 
-## ⚙️ Configuração da IA
+# 🎯 Objetivo
 
-No Google AI Studio foram configuradas System Instructions para que o Gemini atuasse como um Desenvolvedor Full-Stack especializado em:
-
-- HTML5
-- CSS3
-- JavaScript
-- Responsividade
-- Estruturação de arquivos
-- Reprodução visual de interfaces
+Evoluir uma aplicação baseada em engenharia reversa para um produto mais moderno, personalizado e competitivo, utilizando IA como copiloto de desenvolvimento.
 
 ---
 
-## 🏗️ Construção da Aplicação
+# 🎨 Mudanças Implementadas
 
-A aplicação foi construída progressivamente utilizando prompts refinados, descrevendo:
+## 🔹 Rebranding do Projeto
+O sistema recebeu um novo nome:
 
-- Estrutura dos arquivos
-- Comportamento dos elementos
-- Interações do usuário
-- Organização visual
-- Funcionalidades do sistema
+- *O que você prefere*
 
 ---
 
-## ✅ Validação
+## 🔹 Personalização Visual
+Foram aplicadas novas cores para criar uma identidade visual própria:
 
-O sistema gerado foi comparado constantemente com a aplicação original para verificar:
-
-- Fidelidade visual
-- Funcionamento correto
-- Responsividade
-- Interações
-- Lógica do sistema
-
-Os prompts foram ajustados até que a aplicação apresentasse comportamento semelhante ao da referência analisada.
+- Branco
+- Preto
+- Vermelho
+- Amarelo
 
 ---
 
-# 🧩 Tecnologias Utilizadas
+## 🔹 Melhorias Funcionais
+Foram adicionados novos recursos e melhorias:
+
+- Tela de resultados aprimorada
+- Sistema de análise “Maior Preconceito”
+- Exportação de relatório
+- Login com Google
+- Sistema de privacidade sem banco de dados
+- Funcionamento totalmente local
+- Limitação a recursos gratuitos
+- Adição de gráficos
+- Botão de reiniciar sistema
+
+---
+
+# 🚀 Diferenciais Competitivos
+
+O projeto implementou funcionalidades que não existiam na aplicação original:
+
+## ✅ Exportação de Relatórios
+Permite gerar relatórios dos resultados apresentados no sistema.
+
+## ✅ Login com Google
+Sistema de autenticação integrado para melhorar a experiência do usuário.
+
+## ✅ Sistema de Privacidade
+Os dados permanecem locais, sem armazenamento em banco de dados externo.
+
+## ✅ Dashboard com Gráficos
+Foram adicionados gráficos para melhor visualização e análise dos resultados.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
 
 - Google AI Studio
 - Gemini
 - HTML5
 - CSS3
 - JavaScript
+- Firebase
 - Engenharia de Prompt
 - Inteligência Artificial Generativa
+
+---
+
+# 🔥 Recursos Firebase Utilizados
+
+## 🔹 Authentication
+Implementação de login com Google.
+
+## 🔹 Hosting
+Publicação online gratuita utilizando HTTPS.
+
+## 🔹 Analytics
+Monitoramento básico de utilização dos recursos.
+
+---
+
+# 🧩 Processo de Desenvolvimento
+
+## 🔎 Análise da Aplicação
+Foi realizada uma observação detalhada da interface original para compreender:
+
+- Estrutura visual
+- Fluxo do usuário
+- Componentes
+- Regras de funcionamento
+
+---
+
+## ⚙️ Configuração da IA
+No Google AI Studio foram criadas System Instructions para que o Gemini atuasse como:
+
+- Desenvolvedor Full-Stack
+- Especialista em UI/UX
+- Especialista em responsividade
+- Assistente de refinamento lógico
+
+---
+
+## 🏗️ Construção
+O sistema foi desenvolvido progressivamente utilizando prompts refinados para:
+
+- Estruturar componentes
+- Criar lógica funcional
+- Melhorar design
+- Adicionar novas funcionalidades
+
+---
+
+# 🧠 Questão A — Formação do Desenvolvedor na Era da IA
+
+A engenharia reversa assistida por IA modifica a formação do desenvolvedor ao transferir parte do trabalho técnico para a capacidade analítica e estratégica.
+
+Duas competências que se tornam indispensáveis são:
+
+## 🔹 Engenharia de Prompt
+Saber estruturar instruções claras, organizadas e específicas para a IA gerar soluções mais precisas e eficientes.
+
+## 🔹 Capacidade Analítica
+O profissional precisa interpretar lógica de sistemas, identificar erros rapidamente e validar resultados gerados pela IA.
+
+Essas competências permitem que o desenvolvedor continue relevante mesmo com a evolução das ferramentas generativas.
+
+---
+
+# ⚖️ Questão B — Originalidade vs. Plágio Digital
+
+A engenharia reversa deixa de ser aprendizado quando existe cópia direta ou extremamente semelhante de código, design ou estrutura sem mudanças relevantes ou sem atribuição de créditos.
+
+Utilizar referências como base de aprendizado é válido, porém copiar e apresentar como autoria própria caracteriza plágio digital.
+
+---
+
+## 💡 Diretriz Ética Proposta
+
+Uma solução ética seria incentivar:
+
+- Transparência no uso de IA
+- Créditos às referências utilizadas
+- Adaptação e personalização dos projetos
+- Implementação de melhorias autorais
+- Garantia de originalidade mínima no desenvolvimento
+
+Isso protege a inovação sem impedir o avanço das ferramentas generativas.
 
 ---
 
@@ -104,15 +180,16 @@ Os prompts foram ajustados até que a aplicação apresentasse comportamento sem
 
 Durante a atividade foi possível desenvolver:
 
-- Capacidade analítica
 - Engenharia de Prompt
-- Estruturação de sistemas
-- Interpretação de interfaces
-- Desenvolvimento Full-Stack assistido por IA
-- Identificação rápida de erros e melhorias
+- Desenvolvimento assistido por IA
+- Organização estrutural
+- Criação de interfaces
+- Lógica Full-Stack
+- Pensamento crítico sobre ética digital
+- Diferenciação competitiva de produtos
 
 ---
 
 # 📚 Matéria
 
-Engenharia de Prompt e Aplicações em Inteligência Artificial.
+Engenharia de Prompt e Aplicações em Inteligência Artificial.em Inteligência Artificial.

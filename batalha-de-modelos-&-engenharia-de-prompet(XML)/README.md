@@ -1,82 +1,109 @@
 # SM3 - Batalha de Modelos & Engenharia de Prompt (XML)
 
-## 🧠 Descrição
-O **LiveAssist** é um aplicativo de videoconferência inteligente que vai além das chamadas tradicionais, oferecendo modos adaptáveis para diferentes situações do dia a dia como culinária, treino físico e acessibilidade para idosos.
 
-O objetivo é proporcionar uma experiência simples, funcional e inclusiva, com foco em usabilidade e praticidade.
+## 📖 Descrição
 
----
+Experimento comparativo entre diferentes modelos de Inteligência Artificial utilizando um prompt estruturado em XML para geração de uma página HTML Single Page com CSS integrado.
 
-## 🚀 Problema Resolvido
-Aplicativos de videochamada tradicionais não atendem bem contextos específicos como:
-- Cozinhar com as mãos ocupadas
-- Treinar enquanto acompanha alguém
-- Facilitar o uso para idosos
-
-O **LiveAssist** resolve isso com interfaces adaptáveis e funcionalidades direcionadas.
+O objetivo foi analisar a interpretação do prompt, qualidade do código, criatividade visual, precisão técnica e consumo de tokens entre diferentes IAs.
 
 ---
 
-## ✨ Funcionalidades
+# 🧩 Prompt Estruturado em XML
 
-### 📹 Videoconferência
-- Criação e entrada em salas via nome ou link
-- Integração com Jitsi Meet SDK
+```xml
+<tarefa>
+    <objetivo>
+        Criar uma página HTML5 única com CSS3 interno (single page).
+    </objetivo>
 
-### 🍳 Modo Culinária
-- Navegação por passos de receita
-- Interface limpa e hands-free
-- Botões simples para avançar e repetir
+    <tema>
+        Loja de roupa
+    </tema>
 
-### 🏋️ Modo Fitness
-- Cronômetro integrado
-- Contador de repetições
-- Controle de séries e pausas
+    <diretrizes_design>
+        <layout>Responsivo e minimalista.</layout>
+        <paleta_cores>Vermelho e preto</paleta_cores>
+        <tipografia>
+            Sans-serif para títulos, Serif para corpo.
+        </tipografia>
+    </diretrizes_design>
 
-### 👴 Modo Acessibilidade
-- Botões grandes
-- Alto contraste
-- Entrada facilitada em chamadas
-- Feedback visual claro
+    <obrigatoriedades_tecnicas>
+        <item>Menu de navegação funcional (âncoras).</item>
+        <item>Seção de portfólio ou galeria.</item>
+        <item>Rodapé com informações de contato simuladas.</item>
+        <item>Vestido e moletom.</item>
+    </obrigatoriedades_tecnicas>
+
+    <metrica_obrigatoria>
+        Ao final da resposta, informe uma estimativa
+        de quantos tokens foram gerados para este código.
+    </metrica_obrigatoria>
+</tarefa>
+```
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+# 🤖 Modelos Testados
 
-- Kotlin
-- Android Studio
-- MVVM (Model-View-ViewModel)
-- StateFlow / LiveData
-- Jitsi Meet SDK
-- Material Design 3
-- Jetpack Compose (opcional)
+* ChatGPT
+* Gemini
+* DeepSeek
+* Qwen
+* Grok
+* Maritaca
+* Claude
 
 ---
 
-## 📂 Estrutura do Projeto
+# 📊 Análise Comparativa
 
-com.liveassist
-│
-├── ui/
-│   ├── main/
-│   ├── cooking/
-│   ├── fitness/
-│   └── accessibility/
-│
-├── viewmodel/
-│   ├── MainViewModel
-│   ├── CookingViewModel
-│   ├── FitnessViewModel
-│
-├── data/
-│   └── models/
-│
-├── jitsi/
-│
-└── utils/
+| Critério           | GPT               | Gemini      | DeepSeek    | Qwen         | Grok                | Maritaca     | Claude               |
+| ------------------ | ----------------- | ----------- | ----------- | ------------ | ------------------- | ------------ | -------------------- |
+| Precisão do Prompt | Aceitável         | Bom         | Ótimo       | Bom          | Bom                 | Ruim         | Ótimo                |
+| Precisão do HTML   | Médio             | Ótimo       | Médio       | Bom          | Ótimo               | Ruim         | Médio                |
+| Criatividade       | Ruim              | Bom         | Médio       | Ótimo        | Bom                 | Ruim         | Ótimo                |
+| Bugs/Sintaxe       | Imagens quebradas | Funcionando | Funcionando | Alguns erros | Imagens incoerentes | Botões ruins | Problemas em imagens |
+| Tokens             | 1.200             | 1.050       | 4.880       | 850          | 4.850               | 650          | 4.200                |
 
-## ⚙️ Instalação e Execução
+---
 
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/liveassist.git
+# 🧠 Reflexão Crítica
+
+## 🔹 Qual modelo demonstrou maior compreensão do XML?
+
+O Claude apresentou melhor interpretação estrutural do prompt XML, entregando um HTML mais complexo, organizado e visualmente interessante.
+
+---
+
+## 🔹 Houve diferença significativa na quantidade de tokens?
+
+Sim. Modelos como GPT, Maritaca e Qwen utilizaram menos tokens. Porém, o Qwen conseguiu manter uma boa qualidade mesmo com baixo consumo.
+
+---
+
+## 🔹 Melhor IA para cada cenário
+
+### ⚡ Prototipagem Rápida
+
+Qwen — gerou um HTML simples, funcional e versátil com poucos tokens.
+
+### 🛠️ Projetos Complexos
+
+Claude — apresentou maior qualidade estrutural, melhor design e HTML mais robusto.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
+* HTML5
+* CSS3
+* XML Prompt Engineering
+* Inteligência Artificial Generativa
+
+---
+
+# 📚 Matéria
+
+Engenharia de Prompt e Aplicações em Inteligência Artificial.

@@ -73,10 +73,6 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 | :--- | :--- | :---: |
 | SM8 - Composicao Musical Assistida por inteligencia Artificial | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](composicao-musical-assistida-por-inteligencia-artificial/README.md) |
 
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| nao sei qual é - bruno - LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](liveassist-web/README.md) |
-
 ---
  
 ### 🏗 Estrutura do Repositório

@@ -1,4 +1,4 @@
-# 📱 LiveAssist
+# SM4 - Engenharia Reversa
 
 ## 🧠 Descrição
 O **LiveAssist** é um aplicativo de videoconferência inteligente que vai além das chamadas tradicionais, oferecendo modos adaptáveis para diferentes situações do dia a dia como culinária, treino físico e acessibilidade para idosos.

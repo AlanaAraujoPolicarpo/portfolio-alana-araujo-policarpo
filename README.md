@@ -40,19 +40,22 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-|SM1 - Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](batalha-de-modelos-&-engenharia-de-prompet(XML)/README.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM2 - LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](liveassist-web/README.md) |
+| SM1 - A Corrida do Prompt | Projeto voltado para a prática de Engenharia de Prompt, utilizando Inteligência Artificial para comparar respostas geradas a partir de prompts refinados. A atividade explorou geração de imagens e escrita criativa, analisando como diferentes níveis de detalhamento influenciam na qualidade, precisão e criatividade das respostas produzidas pela IA. | [Ver Projeto](a-corrida-do-prompt/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM3 - A Corrida do Prompt | Projeto voltado para a prática de Engenharia de Prompt, utilizando Inteligência Artificial para comparar respostas geradas a partir de prompts refinados. A atividade explorou geração de imagens e escrita criativa, analisando como diferentes níveis de detalhamento influenciam na qualidade, precisão e criatividade das respostas produzidas pela IA. | [Ver Projeto](a-corrida-do-prompt/README.md) |
+| SM2 - Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM4 - Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual/README.md) |
+| SM3 - Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](batalha-de-modelos-&-engenharia-de-prompet(XML)/README.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| SM4 - Engenharia Reversa | esse aqui vc nao fez ainda e adicionei aqui - bruno | [Ver Projeto](engenharia-reversa/README.md) 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -70,7 +73,10 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 | :--- | :--- | :---: |
 | SM8 - Composicao Musical Assistida por inteligencia Artificial | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](composicao-musical-assistida-por-inteligencia-artificial/README.md) |
 
- 
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| nao sei qual é - bruno - LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](liveassist-web/README.md) |
+
 ---
  
 ### 🏗 Estrutura do Repositório

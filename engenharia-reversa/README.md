@@ -1,82 +1,118 @@
 # SM4 - Engenharia Reversa
 
-## 🧠 Descrição
-O **LiveAssist** é um aplicativo de videoconferência inteligente que vai além das chamadas tradicionais, oferecendo modos adaptáveis para diferentes situações do dia a dia como culinária, treino físico e acessibilidade para idosos.
+## 📖 Descrição
 
-O objetivo é proporcionar uma experiência simples, funcional e inclusiva, com foco em usabilidade e praticidade.
+Nesta atividade foi realizado um processo de engenharia reversa utilizando Inteligência Artificial para reconstrução de um sistema web a partir apenas da análise visual e funcional da interface, sem acesso ao código-fonte original.
 
----
-
-## 🚀 Problema Resolvido
-Aplicativos de videochamada tradicionais não atendem bem contextos específicos como:
-- Cozinhar com as mãos ocupadas
-- Treinar enquanto acompanha alguém
-- Facilitar o uso para idosos
-
-O **LiveAssist** resolve isso com interfaces adaptáveis e funcionalidades direcionadas.
+O objetivo foi compreender como a IA pode auxiliar no desenvolvimento Full-Stack, reprodução de interfaces modernas e refinamento de lógica de sistemas.
 
 ---
 
-## ✨ Funcionalidades
+# 🎯 Objetivos da Atividade
 
-### 📹 Videoconferência
-- Criação e entrada em salas via nome ou link
-- Integração com Jitsi Meet SDK
+## 🔹 Identificação de Problemas
 
-### 🍳 Modo Culinária
-- Navegação por passos de receita
-- Interface limpa e hands-free
-- Botões simples para avançar e repetir
+A atividade permitiu desenvolver a capacidade do profissional em identificar erros de código de maneira rápida e lógica, principalmente relacionados à:
 
-### 🏋️ Modo Fitness
-- Cronômetro integrado
-- Contador de repetições
-- Controle de séries e pausas
-
-### 👴 Modo Acessibilidade
-- Botões grandes
-- Alto contraste
-- Entrada facilitada em chamadas
-- Feedback visual claro
+- Segurança
+- Performance
+- Estrutura do sistema
+- Organização do código
+- Funcionamento da interface
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🔹 Engenharia de Prompt
 
-- Kotlin
-- Android Studio
-- MVVM (Model-View-ViewModel)
-- StateFlow / LiveData
-- Jitsi Meet SDK
-- Material Design 3
-- Jetpack Compose (opcional)
+Foi trabalhada a habilidade de comandar e especificar prompts de maneira dinâmica e organizada para a IA, garantindo respostas mais precisas durante o desenvolvimento da aplicação.
 
 ---
 
-## 📂 Estrutura do Projeto
+## 🔹 Ética e Autenticidade
 
-com.liveassist
-│
-├── ui/
-│   ├── main/
-│   ├── cooking/
-│   ├── fitness/
-│   └── accessibility/
-│
-├── viewmodel/
-│   ├── MainViewModel
-│   ├── CookingViewModel
-│   ├── FitnessViewModel
-│
-├── data/
-│   └── models/
-│
-├── jitsi/
-│
-└── utils/
+Todo projeto desenvolvido a partir de engenharia reversa deve apresentar no mínimo 40% de autenticidade por parte do desenvolvedor, além da obrigatoriedade de citar os créditos da aplicação utilizada como referência.
 
-## ⚙️ Instalação e Execução
+---
 
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/liveassist.git
+# 🛠️ Processo de Desenvolvimento
+
+## 🔎 Análise da Aplicação
+
+Foi realizada uma análise completa do webapp de referência observando:
+
+- Interface visual
+- Navegação
+- Componentes
+- Responsividade
+- Fluxo do usuário
+- Regras de negócio
+
+---
+
+## ⚙️ Configuração da IA
+
+No Google AI Studio foram configuradas System Instructions para que o Gemini atuasse como um Desenvolvedor Full-Stack especializado em:
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsividade
+- Estruturação de arquivos
+- Reprodução visual de interfaces
+
+---
+
+## 🏗️ Construção da Aplicação
+
+A aplicação foi construída progressivamente utilizando prompts refinados, descrevendo:
+
+- Estrutura dos arquivos
+- Comportamento dos elementos
+- Interações do usuário
+- Organização visual
+- Funcionalidades do sistema
+
+---
+
+## ✅ Validação
+
+O sistema gerado foi comparado constantemente com a aplicação original para verificar:
+
+- Fidelidade visual
+- Funcionamento correto
+- Responsividade
+- Interações
+- Lógica do sistema
+
+Os prompts foram ajustados até que a aplicação apresentasse comportamento semelhante ao da referência analisada.
+
+---
+
+# 🧩 Tecnologias Utilizadas
+
+- Google AI Studio
+- Gemini
+- HTML5
+- CSS3
+- JavaScript
+- Engenharia de Prompt
+- Inteligência Artificial Generativa
+
+---
+
+# 📚 Aprendizados
+
+Durante a atividade foi possível desenvolver:
+
+- Capacidade analítica
+- Engenharia de Prompt
+- Estruturação de sistemas
+- Interpretação de interfaces
+- Desenvolvimento Full-Stack assistido por IA
+- Identificação rápida de erros e melhorias
+
+---
+
+# 📚 Matéria
+
+Engenharia de Prompt e Aplicações em Inteligência Artificial.

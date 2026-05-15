@@ -40,19 +40,19 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](2.Readme/2Readme.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
+|SM1 - Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](2.Readme/2Readme.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](https://github.com/AlanaAraujoPolicarpo/portfolio-alana-araujo-policarpo/blob/main/liveassist-web%20(1)/readme.md) |
+| SM2 - LiveAssist | Aplicativo de videochamadas inteligentes com modos adaptáveis para culinária, treinos e acessibilidade, oferecendo uma experiência simples, prática e inclusiva para diferentes situações do dia a dia. | [Ver Projeto](https://github.com/AlanaAraujoPolicarpo/portfolio-alana-araujo-policarpo/blob/main/liveassist-web%20(1)/readme.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| A Corrida do Prompt | Projeto voltado para a prática de Engenharia de Prompt, utilizando Inteligência Artificial para comparar respostas geradas a partir de prompts refinados. A atividade explorou geração de imagens e escrita criativa, analisando como diferentes níveis de detalhamento influenciam na qualidade, precisão e criatividade das respostas produzidas pela IA. | [Ver Projeto](5.Readme/5Readme.md) |
+| SM3 - A Corrida do Prompt | Projeto voltado para a prática de Engenharia de Prompt, utilizando Inteligência Artificial para comparar respostas geradas a partir de prompts refinados. A atividade explorou geração de imagens e escrita criativa, analisando como diferentes níveis de detalhamento influenciam na qualidade, precisão e criatividade das respostas produzidas pela IA. | [Ver Projeto](5.Readme/5Readme.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual) |
+| SM4 - Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual) |
  
 ---
  

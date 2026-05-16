@@ -59,7 +59,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM5 - Do Clone ao Produto Minimo Vivel (MVP+) |Nesta atividade foi desenvolvido um sistema utilizando engenharia reversa assistida por Inteligência Artificial, com o objetivo de transformar uma aplicação de referência em um produto autoral, funcional e diferenciado. O projeto foi recriado sem acesso ao código-fonte original, utilizando apenas análise visual, lógica funcional e refinamento de prompts no Google AI Studio. | [Ver Projeto](do-clone-ao-produto-minimo-viavel(MVP+)/README.md) |
+| SM5 - Do Clone ao Produto Minimo Vivel (MVP+) | Nesta atividade, foi desenvolvido um sistema utilizando o conceito de releitura funcional assistida por Inteligência Artificial, com o objetivo de transformar uma aplicação de referência de mercado em um produto totalmente autoral, funcional e diferenciado. | [Ver Projeto](do-clone-ao-produto-minimo-viavel(MVP+)/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |

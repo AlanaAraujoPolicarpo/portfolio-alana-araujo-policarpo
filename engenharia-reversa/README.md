@@ -17,7 +17,7 @@ https://github.com/AlanaAraujoPolicarpo/O-que-voce-prefere.git
 
 ## 🤖 IA Studio
 txt
-https://aistudio.google.com/apps/4b51f63f-6ad8-43c5-886c-a8ffd1cee782?showPreview=true&showAssistant=true
+[https://aistudio.google.com/apps/4b51f63f-6ad8-43c5-886c-a8ffd1cee782?showPreview=true&showAssistant=true](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221MdyEYrJ7r71FShhXaW4ymDqChcmhJD8L%22%5D,%22action%22:%22open%22,%22userId%22:%22109006381702769957810%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 
 ---

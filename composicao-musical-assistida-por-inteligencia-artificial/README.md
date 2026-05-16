@@ -34,12 +34,11 @@ O assistente personalizado foi configurado no Gemini Gems para analisar estilo m
 
 | Faixa | Título | Estilo/Referência | Áudio |
 |---|---|---|---|
-| 01 | Saudade | rock, pop rock, MPB | [musica1.mp3](./audio/Saudade.mp3.mpeg) |
-| 02 | Cinzeiro Azul | rock, pop rock, MPB | [musica2.mp3](./audio/CinzeiroAzul.mp3.mpeg) |
-| 03 | Batom no Retrovisor | rock, pop rock, MPB | [musica3.mp3](./audio/Batomnoretrovisor.mp3.mpeg) |
-| 04 | Gasolina e Cereja | rock, pop rock, MPB | [musica4.mp3](./audio/GasolinaeCereja.mp3.mpeg) |
-| 05 | Rainha do Elevador | rock, pop rock, MPB | [musica5.mp3](./audio/Rainhadoelevador.mp3.mpeg) |
-
+| 01 | Saudade | rock, pop rock, MPB | [musica1.mp3](./Saudade.mp3.mpeg) |
+| 02 | Cinzeiro Azul | rock, pop rock, MPB | [musica2.mp3](./Cinzeiro%20Azul.mp3.mpeg) |
+| 03 | Batom no Retrovisor | rock, pop rock, MPB | [musica3.mp3](./Batom%20no%20retrovisor.mp3.mpeg) |
+| 04 | Gasolina e Cereja | rock, pop rock, MPB | [musica4.mp3](./Gasolina%20e%20Cereja.mp3.mpeg) |
+| 05 | Rainha do Elevador | rock, pop rock, MPB | [musica5.mp3](./Rainha%20do%20elevador.mp3.mpeg) |
 ---
 
 # 📄 Processo de Criação

@@ -34,11 +34,11 @@ O assistente personalizado foi configurado no Gemini Gems para analisar estilo m
 
 | Faixa | Título | Estilo/Referência | Áudio |
 |---|---|---|---|
-| 01 | [Título Música 1] | [Estilo] | [musica1.mp3](./audio/musica1.mp3) |
-| 02 | [Título Música 2] | [Estilo] | [musica2.mp3](./audio/musica2.mp3) |
-| 03 | [Título Música 3] | [Estilo] | [musica3.mp3](./audio/musica3.mp3) |
-| 04 | [Título Música 4] | [Estilo] | [musica4.mp3](./audio/musica4.mp3) |
-| 05 | [Título Música 5] | [Estilo] | [musica5.mp3](./audio/musica5.mp3) |
+| 01 | [Saudade Música 1] | [rock, pop rock, MPB] | [musica1.mp3](./auudio/Saudade.mp3.mpeg) |
+| 02 | [Cinzeiro Azul Música 2] | [rock, pop rock, MPB] | [musica2.mp3](./audio/CinzeiroAzul.mp3.mpeg) |
+| 03 | [Batom no retrovisor Música 3] | [rock, pop rock, MPB] | [musica3.mp3](./audio/Batomnoretrovisor.mp3.mpeg) |
+| 04 | [Gasolina e Cereja 4] | [rock, pop rock, MPB] | [musica4.mp3](./audio/GasolinaeCereija.mp3.mpeg) |
+| 05 | [Rainha do elevador 5] | rock, pop rock, MPB | [musica5.mp3](./audio/Rainhadoelevador.mp3.mpeg) |
 
 ---
 

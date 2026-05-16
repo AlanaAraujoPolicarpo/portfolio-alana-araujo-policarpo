@@ -55,7 +55,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM4 - Engenharia Reversa | esse aqui vc nao fez ainda e adicionei aqui - bruno | [Ver Projeto](engenharia-reversa/README.md) 
+| SM4 - Engenharia Reversa | Nesta atividade foi desenvolvido um sistema utilizando engenharia reversa assistida por Inteligência Artificial, com o objetivo de transformar uma aplicação de referência em um produto autoral, funcional e diferenciado. O projeto foi recriado sem acesso ao código-fonte original, utilizando apenas análise visual, lógica funcional e refinamento de prompts no Google AI Studio.| [Ver Projeto](engenharia-reversa/README.md) 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |

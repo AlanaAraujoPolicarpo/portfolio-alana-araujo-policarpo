@@ -1,82 +1,30 @@
 # SM6 - Engenharia de Software e IA com Bubble.io 
 
-## 🧠 Descrição
-O **LiveAssist** é um aplicativo de videoconferência inteligente que vai além das chamadas tradicionais, oferecendo modos adaptáveis para diferentes situações do dia a dia como culinária, treino físico e acessibilidade para idosos.
+<aside>
+💡
 
-O objetivo é proporcionar uma experiência simples, funcional e inclusiva, com foco em usabilidade e praticidade.
+**Objetivo do sistema**
 
----
+Permitir criar, acompanhar e gerenciar solicitações de orçamentos de forma organizada e segura.
 
-## 🚀 Problema Resolvido
-Aplicativos de videochamada tradicionais não atendem bem contextos específicos como:
-- Cozinhar com as mãos ocupadas
-- Treinar enquanto acompanha alguém
-- Facilitar o uso para idosos
+</aside>
 
-O **LiveAssist** resolve isso com interfaces adaptáveis e funcionalidades direcionadas.
+## Como usar
 
----
-
-## ✨ Funcionalidades
-
-### 📹 Videoconferência
-- Criação e entrada em salas via nome ou link
-- Integração com Jitsi Meet SDK
-
-### 🍳 Modo Culinária
-- Navegação por passos de receita
-- Interface limpa e hands-free
-- Botões simples para avançar e repetir
-
-### 🏋️ Modo Fitness
-- Cronômetro integrado
-- Contador de repetições
-- Controle de séries e pausas
-
-### 👴 Modo Acessibilidade
-- Botões grandes
-- Alto contraste
-- Entrada facilitada em chamadas
-- Feedback visual claro
+- Cadastre **Clientes**
+- Cadastre **Usuários** (ou use apenas você, se preferir)
+- Crie e acompanhe **Orçamentos**
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+Link bubble.io
 
-- Kotlin
-- Android Studio
-- MVVM (Model-View-ViewModel)
-- StateFlow / LiveData
-- Jitsi Meet SDK
-- Material Design 3
-- Jetpack Compose (opcional)
+[link do projeto](https://alanapolica.bubbleapps.io/version-test?debug_mode=true)
 
 ---
 
-## 📂 Estrutura do Projeto
+## Bases de dados
 
-com.liveassist
-│
-├── ui/
-│   ├── main/
-│   ├── cooking/
-│   ├── fitness/
-│   └── accessibility/
-│
-├── viewmodel/
-│   ├── MainViewModel
-│   ├── CookingViewModel
-│   ├── FitnessViewModel
-│
-├── data/
-│   └── models/
-│
-├── jitsi/
-│
-└── utils/
+(As bases serão criadas abaixo.)
 
-## ⚙️ Instalação e Execução
-
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/liveassist.git
+[Gerenciador de Orçamentos — Bases](Gerenciador%20de%20Or%C3%A7amentos%20%E2%80%94%20Bases%20a9c73c5e60dd473c8d1d106dfa3c6fd5_Usu%C3%A1rios%2026a56b8b8c82416793568ef9eaed4ea6.csv)

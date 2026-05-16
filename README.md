@@ -55,7 +55,7 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM4 - Engenharia Reversa | Nesta atividade foi desenvolvido um sistema utilizando engenharia reversa assistida por Inteligência Artificial, com o objetivo de transformar uma aplicação de referência em um produto autoral, funcional e diferenciado. O projeto foi recriado sem acesso ao código-fonte original, utilizando apenas análise visual, lógica funcional e refinamento de prompts no Google AI Studio.| [Ver Projeto](engenharia-reversa/README.md) 
+| SM4 - Engenharia Reversa | A engenharia reversa assistida por Inteligência Artificial vem transformando a forma como sistemas são analisados, reconstruídos e aprimorados. Durante esta atividade foi possível compreender a importância da análise lógica, da engenharia de prompts e da ética no desenvolvimento de software utilizando IA. | [Ver Projeto](engenharia-reversa/README.md) 
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |

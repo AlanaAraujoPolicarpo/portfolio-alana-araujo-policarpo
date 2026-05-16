@@ -43,15 +43,15 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM1 - A Corrida do Prompt | Projeto voltado para a prática de Engenharia de Prompt, utilizando Inteligência Artificial para comparar respostas geradas a partir de prompts refinados. A atividade explorou geração de imagens e escrita criativa, analisando como diferentes níveis de detalhamento influenciam na qualidade, precisão e criatividade das respostas produzidas pela IA. | [Ver Projeto](a-corrida-do-prompt/README.md) |
+| SM1 - A Corrida do Prompt | Investigação de estratégias de prompting para melhorar os resultados gerados por inteligência artificial, analisando como pequenas mudanças na instrução impactam diretamente a qualidade, autenticidade e precisão da resposta. | [Ver Projeto](a-corrida-do-prompt/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM2 - Laboratório de Classificação Visual | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](laboratorio-de-classificacao-visual/README.md) |
+| SM2 - Laboratório de Classificação Visual | Nesta atividade foi desenvolvido um sistema de reconhecimento utilizando Inteligência Artificial com o objetivo de identificar carros e motos através de imagens. O projeto foi criado utilizando ferramentas de treinamento de IA, permitindo analisar como modelos de reconhecimento visual interpretam objetos e classificam imagens com base em padrões aprendidos durante o treinamento.. | [Ver Projeto](laboratorio-de-classificacao-visual/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM3 - Batalha de Modelos e Engenharia de Prompt (XML) | Comparação entre diferentes modelos de IA utilizando engenharia de prompt estruturada em XML, com foco na análise de desempenho, precisão das respostas e organização lógica dos prompts. | [Ver Projeto](batalha-de-modelos-&-engenharia-de-prompet(XML)/README.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
+| SM3 - Batalha de Modelos e Engenharia de Prompt (XML) | Experimento comparativo entre diferentes modelos de Inteligência Artificial utilizando um prompt estruturado em XML para geração de uma página HTML Single Page com CSS integrado. O objetivo foi analisar a interpretação do prompt, qualidade do código, criatividade visual, precisão técnica e consumo de tokens entre diferentes IAs.  | [Ver Projeto](batalha-de-modelos-&-engenharia-de-prompet(XML)/README.md) | (https://github.com/AlanaAraujoPolicarpo/Alana/blob/5ec0f783b4937c2a534622803b3e62aea09ae986/1README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -59,19 +59,19 @@ Atualmente cursando o 2º período de Ciência da Computção na Unicid. Sou apa
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM5 - Do Clone ao Produto Minimo Vivel (MVP+) | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](do-clone-ao-produto-minimo-viavel(MVP+)/README.md) |
+| SM5 - Do Clone ao Produto Minimo Vivel (MVP+) |Nesta atividade foi desenvolvido um sistema utilizando engenharia reversa assistida por Inteligência Artificial, com o objetivo de transformar uma aplicação de referência em um produto autoral, funcional e diferenciado. O projeto foi recriado sem acesso ao código-fonte original, utilizando apenas análise visual, lógica funcional e refinamento de prompts no Google AI Studio. | [Ver Projeto](do-clone-ao-produto-minimo-viavel(MVP+)/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM6 - Engenharia de Software e IA com Bubble.io | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](engenharia-de-software-e-ia-com-bubble.io/README.md) |
+| SM6 - Engenharia de Software e IA com Bubble.io | Objetivo do sistema Permitir criar, acompanhar e gerenciar solicitações de orçamentos de forma organizada e segura. | [Ver Projeto](engenharia-de-software-e-ia-com-bubble.io/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM7 - Desenvolvimento de App de Videoconferencia com Manus IA e Jitsi | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](desenvolvimento-de-app-de-videoconferencia-com-manusia-jitsi/README.md) |
+| SM7 - Desenvolvimento de App de Videoconferencia com Manus IA e Jitsi | O LiveAssist é um aplicativo de videoconferência inteligente que vai além das chamadas tradicionais, oferecendo modos adaptáveis para diferentes situações do dia a dia como culinária, treino físico e acessibilidade para idosos. O objetivo é proporcionar uma experiência simples, funcional e inclusiva, com foco em usabilidade e praticidade.. | [Ver Projeto](desenvolvimento-de-app-de-videoconferencia-com-manusia-jitsi/README.md) |
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| SM8 - Composicao Musical Assistida por inteligencia Artificial | Projeto desenvolvido com foco em Inteligência Artificial e reconhecimento de imagens, utilizando treinamento de modelos para identificar carros e motos. A atividade analisou o desempenho da IA durante a classificação dos objetos, destacando seus acertos, limitações e o impacto do aprendizado de máquina mesmo com uma quantidade reduzida de informações para treinamento. | [Ver Projeto](composicao-musical-assistida-por-inteligencia-artificial/README.md) |
+| SM8 - Composicao Musical Assistida por inteligencia Artificial | Este projeto explora a utilização de Inteligência Artificial Generativa para criação de músicas inéditas, utilizando engenharia de prompt para geração de letras e ferramentas de IA para produção musical completa. As letras foram criadas com auxílio do Gemini Gems e os áudios produzidos no Suno AI, buscando manter características inspiradas em artistas específicos, porém com temas originais.| [Ver Projeto](composicao-musical-assistida-por-inteligencia-artificial/README.md) |
 
 ---
  
